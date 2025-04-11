@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dz_17._01.Properties
+namespace Catch_Santa.Properties
 {
 
 

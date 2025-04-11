@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace dz_17._01
+namespace Catch_Santa
 {
     internal static class Program
     {

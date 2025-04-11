@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5AF07635-6B77-43CD-B1B1-F454C18D8B24}</ProjectGuid>
+    <ProjectGuid>{F98E09FD-414E-4838-8E39-BCED476C3979}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>dz_17._01</RootNamespace>
-    <AssemblyName>dz_17.01</AssemblyName>
+    <RootNamespace>Catch_Santa</RootNamespace>
+    <AssemblyName>Catch_Santa</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
